@@ -21,10 +21,10 @@ const Welcome = () => {
                 <a onClick={() => navigate('/about')}>About</a>
               </li>
               <li>
-                <a onClick={() => navigate('/register/customer')}>Sign Up</a>
+                <a onClick={() => navigate('')}>Sign Up</a>
               </li>
               <li>
-                <a onClick={() => navigate('/login')}>Sign In</a>
+                <a onClick={() => navigate('')}>Sign In</a>
               </li>
               <li>
                 <a onClick={() => navigate('/contact')}>Contact</a>
