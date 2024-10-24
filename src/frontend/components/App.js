@@ -10,8 +10,8 @@ import Certificate from './Certificate';
 import Welcome from './Welcome';
 
 
-
-
+//Routing the system and enabled
+ 
 function App() {
   const [account, setAccount] = useState(null);
   const [swms, setSwms] = useState({});
