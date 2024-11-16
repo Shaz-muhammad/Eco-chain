@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import swal from 'sweetalert';
-import './Authform.css'; // Import the CSS file
+import './AuthForm.css'; // Import the CSS file
 
 function AuthForm({ onAuthenticate }) {
   const [uniqueId, setUniqueId] = useState('');
