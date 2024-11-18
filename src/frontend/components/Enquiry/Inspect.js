@@ -36,7 +36,7 @@ const Inspect = () => {
             </button>
           </div>
         ) : (
-          // List all users
+         
           <div>
             <h2>All Users</h2>
             <ul style={{ listStyleType: 'none', padding: '0' }}>
