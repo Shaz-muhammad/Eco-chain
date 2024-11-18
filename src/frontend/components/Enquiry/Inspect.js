@@ -15,7 +15,7 @@ const Inspect = () => {
       
       <div style={{ marginTop: '20px' }}>
         {selectedUser ? (
-          // Detail view for a selected user
+          // Detail view for a selected user and updating it
           <div>
             <h2>User Details</h2>
             <p><strong>Name:</strong> {selectedUser.name}</p>
